@@ -1,3 +1,5 @@
+// Copyright Paul-Johan Seim
+
 public class Staff{
 public static void main(String[] args) {
     
