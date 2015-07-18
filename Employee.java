@@ -1,3 +1,5 @@
+// Copyright Paul-Johan Seim
+
 public abstract class Employee implements Employed{
 
 // contract types (constants)
