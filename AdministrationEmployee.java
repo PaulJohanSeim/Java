@@ -1,3 +1,5 @@
+// Copyright Paul-Johan Seim
+
 public class AdministrationEmployee extends Employee{                  
 // constructor
     public AdministrationEmployee(String name, int contract, int years, String department){
